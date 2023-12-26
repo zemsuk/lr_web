@@ -16,7 +16,10 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "zems/lib_web": "v1.0",
+        "zems/zems_builder": "v1.0"
+    },
     "extra": {
         "laravel": {
             "providers": ["Zems\\LrWeb\\ZemsWebProvider"]
