@@ -17,8 +17,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "zems/lib_web": "v1.0.2",
-        "zems/zems_builder": "v1.0"
+        "zems/lr_admin": "v1.0.2"
     },
     "extra": {
         "laravel": {
